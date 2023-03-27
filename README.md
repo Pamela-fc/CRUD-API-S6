@@ -30,12 +30,12 @@ O squad6 foi responsável por criar a API de um aplicativo.
 
 ![badge-status](https://img.shields.io/badge/status-Finalizado_com_Sucesso-green?style=for-the-badge)
 
-## Demonstração
+## Demonstração ★
 - **Clique na imagem para ser direcionado à um vídeo demonstrativo.**
 [![Watch the video](https://github.com/Pamela-fc/CRUD-API-S6/blob/main/demonstra%C3%A7%C3%A3o.jpg?raw=true)](https://youtu.be/XHwwGb7_v_w)
 
 
-# Para executar o projeto faça: 
+# Para executar o projeto faça ★: 
 
 ## 👉  Clonar o repositório na sua máquina basta:
 
@@ -60,7 +60,7 @@ yarn add express nodemon cors mysql
 `http://localhost:8800` para abrir o projeto no navegador.
 
 
-# Tecnologias utilizadas 
+# Tecnologias utilizadas ★
 
 - `Node.js`
 - `Express`
