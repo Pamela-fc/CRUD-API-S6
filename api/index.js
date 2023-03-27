@@ -14,5 +14,7 @@ app.use(cors());
 ///rota principal
 app.use("/", userRoutes);
 
+app.use ('/:nome', userRoutes)
+
 ///usarna porta 8800
 app.listen(8800);
