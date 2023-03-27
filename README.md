@@ -32,7 +32,7 @@ O squad6 foi responsável por criar a API de um aplicativo.
 
 ## Demonstração
 - **Clique na imagem para ser direcionado à um vídeo demonstrativo.**
-[![Watch the video](https://github.com/Pamela-fc/CRUD-API-S6/blob/main/demonstra%C3%A7%C3%A3o.jpg?raw=true)](https://youtu.be/3AdF1x1pjNM)
+[![Watch the video](https://github.com/Pamela-fc/CRUD-API-S6/blob/main/demonstra%C3%A7%C3%A3o.jpg?raw=true)](https://youtu.be/XHwwGb7_v_w)
 
 
 # Para executar o projeto faça: 
