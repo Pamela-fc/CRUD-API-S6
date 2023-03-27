@@ -46,18 +46,18 @@ O squad6 foi responsável por criar a API de um aplicativo.
 ## 👉 Dentro da pasta do projeto, instale as dependências:
 
 ```sh
-npm install express nodemon cors mysql2
+yarn add express nodemon cors mysql
 ```
 
 ## 👉 Executar o projeto:
 
 
-`npm start ou node index.js`
+`yarn start ou node index.js`
 
 
 ## 👉 Após esses passos acesse:
 
-`http://localhost:3000` para abrir o projeto no navegador.
+`http://localhost:8800` para abrir o projeto no navegador.
 
 
 # Tecnologias utilizadas 
@@ -65,6 +65,8 @@ npm install express nodemon cors mysql2
 - `Node.js`
 - `Express`
 - `SQLite`
+- `Cors`
+- `Nodemon`
 
 
 ## Colaboradores 💻
