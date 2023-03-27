@@ -3,14 +3,14 @@
 Nesse projeto desenvolvemos um produto mínimo viável (MVC) para um aplicativo utilizando API.
 Seguimos o padrão Restull (rest + verbos HTTP) com implementações de CRUD. 
 
-◼ Como instalar as dependências do projeto 
 
+◼ Como instalar as dependências do projeto:
+ npm ou yarn 
+ sendo as dependencias : express, nodemon, Mysql e cors
 
 ◼ Como executar o projeto
+npm start
 
-◼ Rotas possíveis
-
-◼ Quaisquer outros pontos que você achar necessários
 
 
 ## Demonstração
