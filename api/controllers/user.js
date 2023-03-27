@@ -1,16 +1,24 @@
-///importando o db
-import { db } from "../db.js";
+///importando o express
+import express from "express";
+///importando o controlller de user
+import { getUsers, addUser, updateUser, deleteUser, getNome } from "../controllers/user.js";
 
-///exportando o getUsers
-export const getUsers = (_, res) => {
 
-    ///const de query para pegar do campo usuarios no banco de dados
-    const q = "SELECT * FROM usuarios";
-    
-    ///função para puxar do banco de dados
-    db.query(q, (err, data) => {
-        if (err) return res.json(err);
 
-        return res.status(200).json(data);
-    });
-};
+///const router para usar como rota
+const router = express.Router();
+
+///rota com getUsers
+router.get("/", getUsers);   
+
+router.post("/", addUser);
+
+router.put("/:id", updateUser);
+
+router.delete("/:id", deleteUser);
+
+router.get ("/:nome", getNome);
+
+
+///exportando a rota
+export  default router;
