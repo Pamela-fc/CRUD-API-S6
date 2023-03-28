@@ -31,7 +31,10 @@ O squad6 foi responsável por criar a API de um aplicativo.
 ![badge-status](https://img.shields.io/badge/status-Finalizado_com_Sucesso-green?style=for-the-badge)
 
 ## Demonstração ★
-- **Clique na imagem para ser direcionado à um vídeo demonstrativo.**
+
+- **`Clique na imagem`** para ser direcionado à um **`vídeo demonstrativo`**
+
+
 [![Watch the video](https://github.com/Pamela-fc/CRUD-API-S6/blob/main/demonstra%C3%A7%C3%A3o.jpg?raw=true)](https://youtu.be/XHwwGb7_v_w)
 
 
