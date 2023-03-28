@@ -34,7 +34,7 @@ O squad6 foi responsável por criar a API de um aplicativo.
 
 - **`Clique na imagem`** para ser direcionado à um **`vídeo demonstrativo`**
 
-- **A demonstração do metódo Delete do CRUD teve que ser gravada separadamente, então se quiser ver também é só vir** [clicar aqui](https://youtu.be/-1Bu6nt2VgQ)
+- **A demonstração do metódo Delete do CRUD teve que ser gravada separadamente, então se quiser ver também é só ** [clicar aqui](https://youtu.be/-1Bu6nt2VgQ)
 
 
 [![Watch the video](https://github.com/Pamela-fc/CRUD-API-S6/blob/main/demonstra%C3%A7%C3%A3o.jpg?raw=true)](https://youtu.be/XHwwGb7_v_w)
