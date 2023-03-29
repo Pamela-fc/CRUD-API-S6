@@ -1,6 +1,6 @@
 ///importando dependências
 import express  from "express";
-import userRoutes from "./routes/users.js";
+import userRoutes from "./routes/user.js";
 import cors from "cors";
 
 ///const para o express
